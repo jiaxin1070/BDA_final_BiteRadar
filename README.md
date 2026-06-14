@@ -251,8 +251,8 @@ Some files or folders may differ depending on the submitted version. Please refe
 ### 1. Clone the repository
 
 ```bash
-git clone <your-github-repo-url>
-cd BiteRadar
+git clone https://github.com/jiaxin1070/BDA_final_BiteRadar.git
+cd BDA_final_BiteRadar
 ```
 
 ### 2. Create a virtual environment
