@@ -1,0 +1,6 @@
+﻿field,allowed_or_suggested_values,notes
+personality_type,Cozy Scholar|Date Night Pick|Hungry Student Saver|Photo-First Cafe|Serious Foodie Spot|Group Gathering Place|Quick Safe Pick|Vegetarian Date Pick|Late-night Comfort Pick|Needs Manual Check,Can extend as needed.
+sentiment,positive|neutral|negative|mixed,Use mixed when review has both pros and cons.
+source_type,manual_summary_or_survey|restaurant_submitted|self_written_note|licensed_article_summary|google_reference_metadata,Avoid copying long raw Google reviews.
+occasion_hint,date|study|chat|group meal|quick meal|student meal|photo sharing|celebration|solo meal|brunch|coffee break|late night|vegetarian meal,Use | separator for multiple labels.
+photo_type,food|interior|menu|exterior|placeholder,Use real photos only if source-safe.
